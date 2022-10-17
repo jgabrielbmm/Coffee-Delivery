@@ -14,7 +14,7 @@ export const coffeeData: ITCoffee[] = [
     coffeInfo: 'O tradicional café feito com água quente e grãos moídos',
     tags: ['tradicional'],
     price: 9.9,
-    image: 'http://localhost:3000/expresso-tradicional.png',
+    image: '/img/expresso-tradicional.png',
   },
   {
     id: 2,
@@ -22,7 +22,7 @@ export const coffeeData: ITCoffee[] = [
     coffeInfo: 'Expresso diluído, menos intenso que o tradicional',
     tags: ['tradicional'],
     price: 9.9,
-    image: 'http://localhost:3000/expresso-americano.png',
+    image: '/img/expresso-americano.png',
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ export const coffeeData: ITCoffee[] = [
     coffeInfo: 'Café expresso tradicional com espuma cremosa',
     tags: ['tradicional'],
     price: 9.9,
-    image: 'http://localhost:3000/expresso-cremoso.png',
+    image: '/img/expresso-cremoso.png',
   },
   {
     id: 4,
@@ -38,7 +38,7 @@ export const coffeeData: ITCoffee[] = [
     coffeInfo: 'Bebida preparada com café expresso e cubos de gelo',
     tags: ['tradicional'],
     price: 9.9,
-    image: 'http://localhost:3000/cafe-gelado.png',
+    image: '/img/cafe-gelado.png',
   },
   {
     id: 5,
@@ -46,7 +46,7 @@ export const coffeeData: ITCoffee[] = [
     coffeInfo: 'Meio a meio de expresso tradicional com leite vaporizadoo',
     tags: ['tradicional', 'com leite'],
     price: 9.9,
-    image: 'http://localhost:3000/cafe-com-leite.png',
+    image: '/img/cafe-com-leite.png',
   },
   {
     id: 6,
@@ -55,7 +55,7 @@ export const coffeeData: ITCoffee[] = [
       'Uma dose de café expresso com o dobro de leite e espuma cremosa',
     tags: ['tradicional', 'com leite'],
     price: 9.9,
-    image: 'http://localhost:3000/latte.png',
+    image: '/img/latte.png',
   },
   {
     id: 7,
@@ -64,7 +64,7 @@ export const coffeeData: ITCoffee[] = [
       'Bebida com canela feita de doses iguais de café, leite e espuma',
     tags: ['tradicional', 'com leite'],
     price: 9.9,
-    image: 'http://localhost:3000/capuccino.png',
+    image: '/img/capuccino.png',
   },
   {
     id: 8,
@@ -72,7 +72,7 @@ export const coffeeData: ITCoffee[] = [
     coffeInfo: 'Café expresso misturado com um pouco de leite quente e espuma',
     tags: ['tradicional', 'com leite'],
     price: 9.9,
-    image: 'http://localhost:3000/macchiato.png',
+    image: '/img/macchiato.png',
   },
   {
     id: 9,
@@ -80,7 +80,7 @@ export const coffeeData: ITCoffee[] = [
     coffeInfo: 'Café expresso com calda de chocolate, pouco leite e espuma',
     tags: ['tradicional', 'com leite'],
     price: 9.9,
-    image: 'http://localhost:3000/mocaccino.png',
+    image: '/img/mocaccino.png',
   },
   {
     id: 10,
@@ -88,7 +88,7 @@ export const coffeeData: ITCoffee[] = [
     coffeInfo: 'Bebida feita com chocolate dissolvido no leite quente e café',
     tags: ['especial', 'com leite'],
     price: 9.9,
-    image: 'http://localhost:3000/chocolate-quente.png',
+    image: '/img/chocolate-quente.png',
   },
   {
     id: 11,
@@ -97,7 +97,7 @@ export const coffeeData: ITCoffee[] = [
       'Drink gelado de café expresso com rum, creme de leite e hortelã',
     tags: ['especial', 'alcoólico', 'gelado'],
     price: 9.9,
-    image: 'http://localhost:3000/cubano.png',
+    image: '/img/cubano.png',
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const coffeeData: ITCoffee[] = [
     coffeInfo: 'Bebida adocicada preparada com café e leite de coco',
     tags: ['especial'],
     price: 9.9,
-    image: 'http://localhost:3000/havaiano.png',
+    image: '/img/havaiano.png',
   },
   {
     id: 13,
@@ -113,7 +113,7 @@ export const coffeeData: ITCoffee[] = [
     coffeInfo: 'Bebida preparada com grãos de café árabe e especiarias',
     tags: ['especial'],
     price: 9.9,
-    image: 'http://localhost:3000/arabe.png',
+    image: '/img/arabe.png',
   },
   {
     id: 14,
@@ -121,6 +121,6 @@ export const coffeeData: ITCoffee[] = [
     coffeInfo: 'Bebida a base de café, uísque irlandês, açúcar e chantilly',
     tags: ['especial', 'Alcoólico'],
     price: 9.9,
-    image: 'http://localhost:3000/irlandes.png',
+    image: '/img/irlandes.png',
   },
 ]
